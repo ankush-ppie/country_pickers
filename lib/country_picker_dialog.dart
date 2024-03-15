@@ -222,6 +222,7 @@ class SingleChoiceDialogState extends State<CountryPickerDialog> {
               .toList();
         });
       },
+      style: TextStyle(color: Colors.black),
     );
   }
 }
